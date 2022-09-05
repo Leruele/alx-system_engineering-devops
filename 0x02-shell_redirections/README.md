@@ -1,1 +1,1 @@
-Create and write in a file
+Script that creates a file containing text
